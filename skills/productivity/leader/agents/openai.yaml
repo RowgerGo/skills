@@ -1,0 +1,5 @@
+interface:
+  display_name: "Leader"
+  short_description: "把想法写成可交给 Agent 执行的目标任务书"
+policy:
+  allow_implicit_invocation: false
